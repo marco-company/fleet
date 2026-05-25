@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# fleet
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/fleet&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/fleet/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/fleet/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/fleet/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/fleet/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/fleet-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/fleet-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# fleet
 
 TODO: add repo description.
 
@@ -30,13 +31,13 @@ addon | version | maintainers | summary
 [fleet_vehicle_inspection](fleet_vehicle_inspection/) | 16.0.1.1.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | This module extends the Fleet module allowing the registration of vehicle entry and exit inspections.
 [fleet_vehicle_inspection_template](fleet_vehicle_inspection_template/) | 16.0.2.0.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | This module extend module fleet_vehicle_inspection enable inspection templates feature
 [fleet_vehicle_log_fuel](fleet_vehicle_log_fuel/) | 16.0.1.0.0 |  | Add Log Fuels for your vehicles.
-[fleet_vehicle_ownership](fleet_vehicle_ownership/) | 16.0.1.0.0 | <a href='https://github.com/cubells'><img src='https://github.com/cubells.png' width='32' height='32' style='border-radius:50%;' alt='cubells'/></a> | Add vehicle ownership, linking partners to vehicles
+[fleet_vehicle_ownership](fleet_vehicle_ownership/) | 16.0.1.0.1 | <a href='https://github.com/cubells'><img src='https://github.com/cubells.png' width='32' height='32' style='border-radius:50%;' alt='cubells'/></a> | Add vehicle ownership, linking partners to vehicles
 [fleet_vehicle_purchase](fleet_vehicle_purchase/) | 16.0.1.0.0 |  | Allow to integrate Purcase with Fleet Vehicles
 [fleet_vehicle_service_activity](fleet_vehicle_service_activity/) | 16.0.1.0.0 |  | Activity alerts for fleet services
 [fleet_vehicle_service_calendar](fleet_vehicle_service_calendar/) | 16.0.1.0.1 | <a href='https://github.com/mamcode'><img src='https://github.com/mamcode.png' width='32' height='32' style='border-radius:50%;' alt='mamcode'/></a> <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Add a smart button in services to schedule meetings.
 [fleet_vehicle_service_kanban](fleet_vehicle_service_kanban/) | 16.0.1.1.0 | <a href='https://github.com/mamcode'><img src='https://github.com/mamcode.png' width='32' height='32' style='border-radius:50%;' alt='mamcode'/></a> <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Add features of kanban to logs of vehicle services.
 [fleet_vehicle_service_services](fleet_vehicle_service_services/) | 16.0.1.0.0 |  | Add subservices in Services.
-[fleet_vehicle_stock](fleet_vehicle_stock/) | 16.0.1.0.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | This module is an add-on for the Fleet application in Odoo. It allows you to track your Fleet Vehicles in stock moves.
+[fleet_vehicle_stock](fleet_vehicle_stock/) | 16.0.1.1.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | This module is an add-on for the Fleet application in Odoo. It allows you to track your Fleet Vehicles in stock moves.
 [fleet_vehicle_usage](fleet_vehicle_usage/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Fleet Vehicle Usage
 
 [//]: # (end addons)
